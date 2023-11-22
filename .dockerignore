@@ -1,0 +1,7 @@
+.git
+.swp
+.log
+.DS_Store
+.gitignore
+README.md
+Dockerfile
